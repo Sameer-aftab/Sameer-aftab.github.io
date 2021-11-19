@@ -2,7 +2,7 @@ title: Sameer Aftab
 subtitle: I am a Machine Learning Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   AI Engineer | Network Engineer | Data Scientist | Programmer | Software Develeoper | Graphic Designer 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://sameer-aftab.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
