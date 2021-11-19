@@ -2,7 +2,7 @@ title: Sameer Aftab
 subtitle: I am a Machine Learning Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   AI Engineer | Network Engineer | Data Scientist | Programmer | Software Develeoper | Graphic Designer 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://sameer-aftab.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -24,8 +24,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Sameer Aftab
+author_bio: Hi, my name is Sameer Aftab.
 author_email: "sameeraftab64@gmail.com"
 author_location: Pakistan
 author_website_url: "https://sameer-aftab.github.io"
@@ -70,12 +70,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
+twitter_username: Sameeraftab7
+github_username:  samee-aftab
+facebook_username: sameer.aftab.5070
+linkedin_username: eng-sameer-aftab-aa032115a
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: sameer_aftab
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
