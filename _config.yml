@@ -24,8 +24,8 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Sameer Aftab
+author_bio: Hi, my name is Sameer Aftab. 
 author_email: "sameeraftab64@gmail.com"
 author_location: Pakistan
 author_website_url: "https://sameer-aftab.github.io"
