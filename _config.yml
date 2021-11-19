@@ -34,26 +34,26 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Telenor
+              company_logo: TELENOR.png
+              company_url: https://telenor.com
+              designation: Network Adminstrator
+              description: Worked on designing, installing digital communication networks
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: PTCL
+              company_logo: PTCL.png
+              company_url: https://ptcl.com.pk
+              designation: Network Engineer
+              description: Worked on maintaing, troubleshooting digital communication networks
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: MUET.png
+                college_name: Mehran UET
+                college_url: https://muet.edu.pk
+                college_degree: Telecom Engineer
+                description: Bachelor of Engineering
                 visibility: true
 
 # Projects
